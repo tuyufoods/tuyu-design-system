@@ -1,0 +1,2 @@
+var n=Object.defineProperty;var o=(t,e)=>n(t,"name",{value:e,configurable:!0});import{j as r}from"./jsx-runtime-c368ffdb.js";import"./index-7cc2572b.js";import"./es.object.get-own-property-descriptor-3a7d61f2.js";const s=o(({children:t})=>r("button",{children:t}),"Button"),m={title:"Components/Button",component:s,args:{children:"Create account"},argTypes:{}},u={},d=["Default"];export{u as Default,d as __namedExportsOrder,m as default};
+//# sourceMappingURL=index.stories-f1a56ead.js.map
