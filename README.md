@@ -18,11 +18,7 @@ This design system is a living, breathing document that contains all of the buil
 
 ## Guidelines
 
-- [Design](./guidelines/design-guidelines.md)
-- [Components](./guidelines/component-usage.md)
-- [Contributing](./guidelines/component-usage.md)
-- [Logos](./guidelines/design-guidelines.md)
-- [Writing Styleguide](./guidelines/style-guidelines.md)
+- [Design](./docs/design-guidelines.md)
 
 ## Tech stack
 

@@ -1,4 +1,5 @@
 import { themes } from "@storybook/theming";
+import { withTheme } from "./decorators";
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
@@ -12,3 +13,5 @@ export const parameters = {
     theme: themes.dark,
   },
 };
+
+export const decorators = [withTheme];

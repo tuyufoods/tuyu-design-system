@@ -1,5 +1,7 @@
 import { Meta, StoryObj } from "@storybook/react";
-import { Button, ButtonProps } from ".";
+import { Button } from "@tuyufoods/web-ui";
+
+interface ButtonProps {}
 
 export default {
   title: "Components/Button",
